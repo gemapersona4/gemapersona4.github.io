@@ -1,0 +1,53 @@
+html {
+    font-family: monospace;
+    background: black;
+    color: white;
+    text-transform: lowercase;
+}
+
+body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: teal;
+}
+
+header {
+    margin-top: 50 px;
+    padding: 20px;
+}
+
+img {
+    margin-top: 70px;
+    border-radius: 100px 100px 100px 100px;
+    height: 200px;
+    width: 200px;
+    border-color: teal;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 50%;
+}
+
+.profile-link {
+    margin-top: 30px;
+}
+
+.profile-link a {
+    color: white;
+    margin: 0 10px;
+}
+
+.profile-link a:hover {
+    color: teal;
+}
+
+p {
+    background-color: teal;
+    padding: 20px;
+}
+.profile-content {
+    margin-top: 50px;
+}
+
