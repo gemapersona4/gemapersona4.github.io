@@ -3,6 +3,11 @@ html {
     background: black;
     color: whitesmoke;
     text-transform: lowercase;
+    scroll-behavior: smooth;
+}
+
+.pura2 {
+    margin: 500px;
 }
 
 body {
